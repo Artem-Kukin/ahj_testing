@@ -2,8 +2,8 @@
   "name": "ahj_testing",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "",
-  "author": "",
+  "repository": " https://github.com/Artem-Kukin/ahj_testing.git",
+  "author": "artKuk",
   "license": "MIT",
   "privet": true,
   "jest": {
